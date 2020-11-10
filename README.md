@@ -1,2 +1,7 @@
 # punkup
-Collect information, save your ideas, in the cyberpunk's way
+
+收集信息，保存想法
+
+## 经常忘记东西放哪儿了？
+
+拍张照片，里面的东西会自动识别出来。配合智能的图文搜索，快速回想起物品的位置。
